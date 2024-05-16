@@ -1,0 +1,161 @@
+[2024-05-16 13:40:35][notice]Start restoring themes.
+[2024-05-16 13:40:35][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:40:35][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip succeeded.
+[2024-05-16 13:40:35][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_themes.zip index:0
+[2024-05-16 13:40:37][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_themes.zip index:0 finished.
+[2024-05-16 13:40:37][notice]End restore themes.
+[2024-05-16 13:40:40][notice]Start restoring themes.
+[2024-05-16 13:40:40][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_themes.zip index:1000
+[2024-05-16 13:40:40][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_themes.zip index:1000 finished.
+[2024-05-16 13:40:40][notice]End restore themes.
+[2024-05-16 13:40:42][notice]Start restoring plugin.
+[2024-05-16 13:40:42][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:40:42][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip succeeded.
+[2024-05-16 13:40:42][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:0
+[2024-05-16 13:40:42][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:0 finished.
+[2024-05-16 13:40:42][notice]End restore plugin.
+[2024-05-16 13:40:44][notice]Start restoring plugin.
+[2024-05-16 13:40:44][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:1000
+[2024-05-16 13:40:45][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:1000 finished.
+[2024-05-16 13:40:45][notice]End restore plugin.
+[2024-05-16 13:40:48][notice]Start restoring plugin.
+[2024-05-16 13:40:48][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:2000
+[2024-05-16 13:40:51][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:2000 finished.
+[2024-05-16 13:40:51][notice]End restore plugin.
+[2024-05-16 13:40:53][notice]Start restoring plugin.
+[2024-05-16 13:40:53][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:3000
+[2024-05-16 13:40:58][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:3000 finished.
+[2024-05-16 13:40:58][notice]End restore plugin.
+[2024-05-16 13:41:01][notice]Start restoring plugin.
+[2024-05-16 13:41:01][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:4000
+[2024-05-16 13:41:04][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:4000 finished.
+[2024-05-16 13:41:04][notice]End restore plugin.
+[2024-05-16 13:41:06][notice]Start restoring plugin.
+[2024-05-16 13:41:06][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:5000
+[2024-05-16 13:41:09][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:5000 finished.
+[2024-05-16 13:41:09][notice]End restore plugin.
+[2024-05-16 13:41:11][notice]Start restoring plugin.
+[2024-05-16 13:41:11][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:6000
+[2024-05-16 13:41:12][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_plugin.zip index:6000 finished.
+[2024-05-16 13:41:12][notice]End restore plugin.
+[2024-05-16 13:41:15][notice]Start restoring wp-content.
+[2024-05-16 13:41:15][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:41:15][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip succeeded.
+[2024-05-16 13:41:15][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_content.zip index:0
+[2024-05-16 13:41:15][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_content.zip index:0 finished.
+[2024-05-16 13:41:15][notice]End restore wp-content.
+[2024-05-16 13:41:16][notice]Start restoring upload.
+[2024-05-16 13:41:16][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:41:18][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip succeeded.
+[2024-05-16 13:41:18][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_uploads.zip index:0
+[2024-05-16 13:41:20][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_uploads.zip index:0 finished.
+[2024-05-16 13:41:20][notice]End restore upload.
+[2024-05-16 13:41:23][notice]Start restoring wp-core.
+[2024-05-16 13:41:23][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:41:23][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip succeeded.
+[2024-05-16 13:41:23][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_core.zip
+[2024-05-16 13:41:36][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_core.zip succeeded.
+[2024-05-16 13:41:36][notice]End restore wp-core.
+[2024-05-16 13:41:40][notice]Start restoring databases.
+[2024-05-16 13:41:40][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip
+[2024-05-16 13:41:40][notice]Extracting file:localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_all.zip finished.
+[2024-05-16 13:41:40][notice]Extracting file:C:\xampp\htdocs\websites/wp-content\wpvividbackups\localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_db.zip
+[2024-05-16 13:41:40][notice]Extracting file:C:\xampp\htdocs\websites/wp-content\wpvividbackups\localhost_websites_wpvivid-6645df11538f4_2024-05-16-10-25_backup_db.zip finished.
+[2024-05-16 13:41:40][notice]End restore databases.
+[2024-05-16 13:41:42][notice]Start restoring databases.
+[2024-05-16 13:41:42][notice]Start restoring sql file offset:0
+[2024-05-16 13:41:42][notice]The test to drop table succeeds.
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_nextend2_smartslider3_generators
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_nextend2_smartslider3_generators
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_e_events
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_e_events
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_links
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_links
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_nextend2_image_storage
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_nextend2_image_storage
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_nextend2_smartslider3_sliders_xref
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_nextend2_smartslider3_sliders_xref
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_term_relationships
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_term_relationships
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_commentmeta
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_commentmeta
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_term_taxonomy
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_term_taxonomy
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_termmeta
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_termmeta
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_terms
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_terms
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_usermeta
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_usermeta
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_users
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_users
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_nextend2_section_storage
+[2024-05-16 13:41:42][notice]Creating table tmp3804de_nextend2_section_storage
+[2024-05-16 13:41:42][notice]Drop table if exist tmp3804de_comments
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_comments
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_nextend2_smartslider3_sliders
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_nextend2_smartslider3_sliders
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_nextend2_smartslider3_slides
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_nextend2_smartslider3_slides
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_simply_static_pages
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_simply_static_pages
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_posts
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_posts
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_options
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_options
+[2024-05-16 13:41:43][notice]Drop table if exist tmp3804de_postmeta
+[2024-05-16 13:41:43][notice]Creating table tmp3804de_postmeta
+[2024-05-16 13:41:44][notice]Reading sql file completed offset:5261470
+[2024-05-16 13:41:44][notice]End restore databases.
+[2024-05-16 13:41:46][notice]Start restoring databases.
+[2024-05-16 13:41:46][notice]Start restoring sql file offset:5261470
+[2024-05-16 13:41:46][notice]The test to drop table succeeds.
+[2024-05-16 13:41:46][notice]UPDATE tmp3804de_options SET option_value="http://localhost/websites" WHERE option_name="siteurl";
+[2024-05-16 13:41:46][notice]update query len:98
+[2024-05-16 13:41:46][notice]UPDATE tmp3804de_options SET option_value="http://localhost/websites" WHERE option_name="home";
+[2024-05-16 13:41:46][notice]update query len:95
+[2024-05-16 13:41:46][notice]Restore db success
+[2024-05-16 13:41:46][notice]End restore databases.
+[2024-05-16 13:41:48][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_comments
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_links
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_image_storage
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_section_storage
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_generators
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders_xref
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_slides
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_options
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_posts
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_simply_static_pages
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_terms
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-05-16 13:41:48][notice]DROP TABLE IF EXISTS wp_users
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_commentmeta TO wp_commentmeta
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_comments TO wp_comments
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_e_events TO wp_e_events
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_links TO wp_links
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_image_storage TO wp_nextend2_image_storage
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_section_storage TO wp_nextend2_section_storage
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_smartslider3_generators TO wp_nextend2_smartslider3_generators
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_smartslider3_sliders TO wp_nextend2_smartslider3_sliders
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_smartslider3_sliders_xref TO wp_nextend2_smartslider3_sliders_xref
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_nextend2_smartslider3_slides TO wp_nextend2_smartslider3_slides
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_options TO wp_options
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_postmeta TO wp_postmeta
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_posts TO wp_posts
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_simply_static_pages TO wp_simply_static_pages
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_term_relationships TO wp_term_relationships
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_term_taxonomy TO wp_term_taxonomy
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_termmeta TO wp_termmeta
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_terms TO wp_terms
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_usermeta TO wp_usermeta
+[2024-05-16 13:41:48][notice]RENAME TABLE tmp3804de_users TO wp_users
+[2024-05-16 13:41:48][notice]Replacing table prefix succeeded.
+[2024-05-16 13:41:48][notice]Deleting temp files.
