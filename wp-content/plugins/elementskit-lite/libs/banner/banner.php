@@ -21,6 +21,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 		protected $filter_array = array();
 		protected $api_url;
 
+
 		public function get_version() {
 			return $this->script_version;
 		}
@@ -74,6 +75,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 				}
 			}
 		}
+
 	
 		private function init_notice( $content, $instance) {
 		
@@ -93,7 +95,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 				);
 			}
 			$instance->call();
-		}
+		}    
 
 		private function init_banner( $content, $instance) {
 		
@@ -103,6 +105,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 			->set_html( $html )
 			->call();
 		}
+	
 
 		private function in_whitelist( $conf, $list ) {
 
@@ -122,6 +125,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 
 			return false;
 		}
+
 
 		private function in_blacklist( $conf, $list ) {
 
@@ -147,6 +151,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 			return false;
 		}
 
+
 		public function is_test( $is_test = false ) {
 			if ( $is_test === true ) {
 				$this->check_interval = 1;
@@ -155,11 +160,13 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 			return $this;
 		}
 
+
 		public function set_text_domain( $text_domain ) {
 			$this->text_domain = $text_domain;
 
 			return $this;
 		}
+
 
 		public function set_filter( $filter_string ) {
 			$this->filter_string = $filter_string;
@@ -175,6 +182,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 			return $this;
 		}
 
+
 		public function set_api_url( $url ) {
 			$this->api_url = $url;
 		
@@ -186,6 +194,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 
 			return $this;
 		}
+
 
 		private function get_data() {
 			$this->data = get_option( $this->text_domain . '__banner_data' );
@@ -217,6 +226,7 @@ if ( ! class_exists( '\Wpmet\Libs\Banner' ) ) :
 				}
 			}
 		}
+
 
 		public function is_correct_screen_to_show( $b_screen, $screen_id ) {
 
